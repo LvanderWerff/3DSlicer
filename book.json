@@ -13,8 +13,7 @@
         "mathjax",
         "sectionx",
         "youtubex",
-        "edit-link",
-        "-presentation"
+        "edit-link"
     ],
     "pluginsConfig": {
         "ga": {

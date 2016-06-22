@@ -1,2 +1,2 @@
-# ResGuides: 3D Slicer for Beginners
+# 3D Slicer for Beginners
 

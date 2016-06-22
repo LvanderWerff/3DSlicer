@@ -1,2 +1,2 @@
-# What is 3D Slicer?
+# About 3D Slicer
 

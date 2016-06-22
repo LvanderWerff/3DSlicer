@@ -14,7 +14,7 @@
         "sectionx",
         "youtubex",
         "edit-link",
-        "presentation"
+        "-presentation"
     ],
     "pluginsConfig": {
         "ga": {

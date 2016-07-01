@@ -14,7 +14,7 @@
         "sectionx",
         "youtubex",
         "edit-link",
-        "-googledocs"
+        "googledocs"
     ],
     "pluginsConfig": {
         "ga": {
